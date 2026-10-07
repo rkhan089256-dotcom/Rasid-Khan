@@ -1,0 +1,8 @@
+{
+  "name": "Remix सरपंच रिपोर्ट कार्ड",
+  "description": "गांव के सरपंच के 5 साल के विकास कार्यों का 10-स्टार मूल्यांकन और जनता का रिपोर्ट कार्ड",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
